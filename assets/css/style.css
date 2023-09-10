@@ -132,7 +132,7 @@ hr {
 .site_content {
 	width: 880px;
 	overflow: hidden;
-	margin: 20px avto 0 avto;
+	margin: 20px auto 0 auto;
 	background-color: white;
 }
 
